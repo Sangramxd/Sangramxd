@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 # Sangram Kumar Sahoo
 
 # 👤 About Me
+I'm a Master's student in Mechanical Engineering at Carnegie Mellon University, where I'm pursuing research at the intersection of machine learning and robotics. My work spans Graph Neural Networks for engineering drawings, SLAM simulation environments for autonomous systems, and bio-inspired soft robotics for environmental sensing. With a background in both mechanical engineering and deep learning, I'm particularly interested in building intelligent, adaptive systems that can perceive and operate in complex, real-world environments. Outside of research, I'm passionate about photography, hardware projects, fitness, and exploring new places. I'm currently seeking PhD opportunities where I can continue pushing the boundaries of machine learning, robotics, and computational engineering.
 
 ## 🏫 Academic History
 
-**Master of Science in Mechanical Engineering — Research Track**  
+**Master of Science in Mechanical Engineering — Research **  
 Carnegie Mellon University (2024 – Present)  
 GPA: 4.0/4.0
 
