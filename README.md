@@ -21,7 +21,7 @@ I'm a Master's student in Mechanical Engineering at Carnegie Mellon University, 
 
 ## 🏫 Academic History
 
-**Master of Science in Mechanical Engineering — Research **  
+Master of Science in Mechanical Engineering — Research  
 Carnegie Mellon University (2024 – Present)  
 GPA: 4.0/4.0
 
