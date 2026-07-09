@@ -66,4 +66,5 @@ GPA: 8.7/10
 - Email: sangrams@andrew.cmu.edu
 - LinkedIn: [linkedin.com/in/sangramksahoo](https://www.linkedin.com/in/sangramksahoo)
 - GitHub: [github.com/Sangramxd](https://github.com/Sangramxd)
+- Meeting : https://calendar.app.google/mrVBYuHGVdvyEF8e8
 - Location: Pittsburgh, PA
